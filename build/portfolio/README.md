@@ -1,0 +1,4 @@
+- EZGif <https://ezgif.com>
+- Transform other format to `.jpg`, then to `.webp`;
+- Resize width to `1080px`;
+- Crop as `3:2`;
