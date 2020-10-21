@@ -1,0 +1,4 @@
+- EZGif <https://ezgif.com>
+- Transform other format to `.jpg`;
+- Resize width to `540px`;
+- Crop as `1:1`;
