@@ -1,0 +1,1 @@
+- Generatede by <https://www.favicon.io/>
